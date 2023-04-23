@@ -1,0 +1,11 @@
+0,TypeError,'numpy.ndarray' object is not callable,0,,2023-04-17 19:40:09.731068
+1,TypeError,array() takes from 1 to 2 positional arguments but 4 were given,0,,2023-04-17 19:45:25.030474
+2,TypeError,loop of ufunc does not support argument 0 of type generator which has no callable rint method,0,,2023-04-17 19:55:00.603008
+3,TypeError,loop of ufunc does not support argument 0 of type generator which has no callable rint method,0,,2023-04-17 19:56:02.172394
+4,TypeError,loop of ufunc does not support argument 0 of type generator which has no callable rint method,0,,2023-04-17 19:58:47.124495
+5,NameError,name 'di' is not defined,0,,2023-04-17 20:15:12.059432
+6,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2023-04-17 20:29:32.850245
+7,ValueError,"The column ""waiting_times"" is not in the table. The table contains these columns: eruption number, waiting",0,,2023-04-17 20:31:27.034184
+8,TypeError,Table.__init__() takes from 1 to 3 positional arguments but 5 were given,0,,2023-04-17 20:39:12.747538
+9,ValueError,"The column label must be a string, but a list was given",0,,2023-04-17 20:39:37.767405
+10,SyntaxError,"invalid syntax. Perhaps you forgot a comma? (1211205187.py, line 2)",0,,2023-04-17 20:43:42.540111

@@ -1,0 +1,17 @@
+0,SyntaxError,"incomplete input (1867411798.py, line 1)",0,,2023-04-06 22:34:07.250446
+1,SyntaxError,"incomplete input (1867411798.py, line 1)",0,,2023-04-06 22:34:09.374799
+2,NameError,name 'eleven' is not defined,0,,2023-04-06 22:34:22.154587
+3,SyntaxError,"incomplete input (1867411798.py, line 1)",0,,2023-04-06 22:37:36.863612
+4,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2023-04-06 22:37:39.110539
+5,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2023-04-06 22:39:46.586288
+6,ValueError,Expected a notebook file named './tests' but no such file found,0,,2023-04-06 22:41:32.985530
+7,SyntaxError,"incomplete input (1867411798.py, line 1)",0,,2023-04-06 22:41:38.416329
+8,ValueError,Expected a notebook file named './tests' but no such file found,0,,2023-04-06 22:41:43.444320
+9,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2023-04-06 22:43:48.468644
+10,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2023-04-06 22:45:39.133776
+11,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2023-04-06 22:46:24.407638
+12,ValueError,Test file ./tests/q3_1_2.py does not define 'name',0,,2023-04-06 22:59:52.749411
+13,ValueError,Test file ./tests/q3_1_2.py does not define 'name',0,,2023-04-06 22:59:54.663655
+14,ValueError,Test file ./tests/q3_1_2.py does not define 'name',0,,2023-04-06 23:08:43.885038
+15,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2023-04-06 23:09:09.145138
+16,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2023-04-06 23:09:10.005219

@@ -1,0 +1,6 @@
+0,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2023-04-18 21:20:11.386754
+1,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2023-04-18 21:33:08.982000
+2,TypeError,Table.with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2023-04-18 21:40:40.854855
+3,TypeError,are.between_or_equal_to() missing 1 required positional argument: 'z',0,,2023-04-18 21:53:28.651215
+4,IndexError,index 0 is out of bounds for axis 0 with size 0,0,,2023-04-18 21:55:23.724120
+5,ValueError,"label ""Year Remainer"" not in labels ('Votes', 'Rating', 'Title', 'Year', 'Decade', 'Year Remainder')",0,,2023-04-18 22:06:09.284867

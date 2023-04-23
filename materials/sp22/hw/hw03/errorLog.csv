@@ -1,0 +1,7 @@
+0,ValueError,"label ""NEI_PTER"" not in labels ('Date', 'NEI', 'NEI-PTER')",0,,2023-04-19 19:17:05.594616
+1,ValueError,The column 'Date' contains non-numerical values. A plot cannot be drawn for this column.,0,,2023-04-19 19:38:02.415143
+2,ValueError,"label ""REGION"" not in labels ('Date', 'NEI', 'NEI-PTER')",0,,2023-04-19 19:53:50.663129
+3,TypeError,'collections.deque' object is not callable,0,,2023-04-19 20:06:16.916168
+4,TypeError,'collections.deque' object is not callable,0,,2023-04-19 20:07:08.214332
+5,AttributeError,Rectangle.set() got an unexpected keyword argument 'bin',0,,2023-04-19 20:35:08.312608
+6,AttributeError,Rectangle.set() got an unexpected keyword argument 'bin',0,,2023-04-19 20:35:24.751005
