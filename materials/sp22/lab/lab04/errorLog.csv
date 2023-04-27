@@ -1,0 +1,7 @@
+0,NameError,name 'factor' is not defined,0,,2023-04-24 19:09:32.075487
+1,NameError,name 'raw_compensation' is not defined,0,,2023-04-24 19:09:35.122892
+2,NameError,name 'raw_compensation' is not defined,0,,2023-04-24 19:09:41.690078
+4,TypeError,"replace() argument 2 must be str, not int",0,,2023-04-24 19:12:15.151843
+5,NameError,name 'double' is not defined,0,,2023-04-24 19:14:05.392033
+6,NameError,name 'double' is not defined,0,,2023-04-24 19:15:05.865635
+7,TypeError,'int' object is not callable,0,,2023-04-24 19:22:37.572020

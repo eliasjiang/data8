@@ -1,0 +1,13 @@
+0,ValueError,"label ""Overall"" not in labels ('Menu_Item', 'Overall max')",0,,2023-04-27 18:31:01.317676
+1,ValueError,"label ""Overall"" not in labels ('Menu_Item', 'Overall max')",0,,2023-04-27 18:31:20.904232
+2,ValueError,"label ""Overall"" not in labels ('Menu_Item', 'Overall max')",0,,2023-04-27 18:31:26.245707
+3,ValueError,"label ""Overall"" not in labels ('Menu_Item', 'Overall max')",0,,2023-04-27 18:31:36.781925
+4,ValueError,"label ""Overall"" not in labels ('Menu_Item', 'Overall mean')",0,,2023-04-27 18:34:03.546091
+5,ValueError,The column 'Name' contains non-numerical values. A plot cannot be drawn for this column.,0,,2023-04-27 18:41:08.738332
+6,ValueError,<built-in function bin> is not a label or index,0,,2023-04-27 18:42:25.271265
+7,ValueError,[ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14] is not a label or index,0,,2023-04-27 18:42:33.240274
+8,ValueError,"The column ""proportion"" is not in the table. The table contains these columns: Name, Yelp, Google, Overall, Menu_Item, Cost",0,,2023-04-27 18:45:25.754703
+9,ValueError,"The column ""Jobs"" is not in the table. The table contains these columns: Job, Department, Organization Group, Total Compensation",0,,2023-04-27 19:00:35.520955
+10,ValueError,"The column ""compensation rage"" is not in the table. The table contains these columns: Job, Department, Organization Group, Total Compensation",0,,2023-04-27 19:24:31.548859
+11,TypeError,values requires collect to be specified,0,,2023-04-27 19:25:26.214084
+12,TypeError,values requires collect to be specified,0,,2023-04-27 19:26:45.879289
