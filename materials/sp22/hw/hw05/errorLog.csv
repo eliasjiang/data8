@@ -1,0 +1,7 @@
+0,NameError,name 'sc' is not defined,0,,2023-06-26 19:57:14.024908
+1,ValueError,"The column ""cal_scores"" is not in the table. The table contains these columns: Opponent, Cal 1Q, Cal 2Q, Cal 3Q, Cal 4Q, Opp 1Q, Opp 2Q, Opp 3Q, Opp 4Q",0,,2023-06-26 20:05:50.366314
+2,TypeError,"Use Table().with_columns() to create a new table,                 not Table.with_columns()",0,,2023-06-26 20:07:11.663468
+3,TypeError,'int' object is not iterable,0,,2023-06-26 20:19:58.543353
+4,ValueError,tuple.index(x): x not in tuple,0,,2023-06-26 20:32:44.681076
+5,ValueError,tuple.index(x): x not in tuple,0,,2023-06-26 20:33:22.336749
+6,ValueError,tuple.index(x): x not in tuple,0,,2023-06-26 20:36:21.102477
