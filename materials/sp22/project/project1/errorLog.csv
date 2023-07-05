@@ -1,0 +1,41 @@
+0,NameError,name 'bgd' is not defined,0,,2023-06-27 20:49:40.126507
+1,ValueError,"The column ""population_total"" is not in the table. The table contains these columns: time, count",0,,2023-06-27 21:36:22.029664
+2,AttributeError,'ellipsis' object has no attribute 'set_format',0,,2023-07-03 20:17:44.645631
+3,ValueError,"label ""time"" not in labels ('geo', 'population_total')",0,,2023-07-03 20:34:40.038192
+4,ValueError,"label ""time"" not in labels ('geo', 'population_total')",0,,2023-07-03 20:36:15.174848
+5,ValueError,"label ""time"" not in labels ('geo', 'population_total')",0,,2023-07-03 20:37:35.892470
+6,TypeError,'numpy.int64' object is not iterable,0,,2023-07-03 20:45:24.005959
+7,TypeError,'numpy.int64' object is not iterable,0,,2023-07-03 20:48:12.109412
+8,TypeError,'numpy.int64' object is not iterable,0,,2023-07-03 20:49:07.580664
+9,TypeError,type numpy.ndarray doesn't define __round__ method,0,,2023-07-03 21:24:00.804207
+10,TypeError,'tuple' object is not callable,0,,2023-07-03 21:33:05.067491
+11,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2023-07-03 21:34:30.908651
+12,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2023-07-03 21:35:03.993372
+13,NameError,name 'geo' is not defined,0,,2023-07-03 21:53:52.440653
+14,TypeError,column functions must be callable,0,,2023-07-03 21:54:51.114153
+15,TypeError,type numpy.ndarray doesn't define __round__ method,0,,2023-07-03 22:10:16.630238
+16,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:13:41.828927
+17,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:13:47.465676
+18,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:13:48.621671
+19,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:13:49.926612
+20,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:13:50.955097
+21,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:13:57.530435
+22,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:14:12.720653
+23,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:14:19.947782
+24,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:14:20.984472
+25,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:14:21.813950
+26,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:14:30.472251
+27,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:14:37.813076
+28,NameError,name 'latest_poverty' is not defined,0,,2023-07-05 20:14:38.937262
+29,NameError,name 'poverty' is not defined,0,,2023-07-05 20:14:50.775533
+30,SyntaxError,"invalid syntax (2997090463.py, line 1)",0,,2023-07-05 20:15:12.613041
+31,ValueError,"The column ""region"" is not in the table. The table contains these columns: country, g77_and_oecd_countries, income_groups, is--country, iso3166_1_alpha2, iso3166_1_alpha3, iso3166_1_numeric, iso3166_2, landlocked, latitude, longitude, main_religion_2008, name, un_state, unicef_region, unicode_region_subtag, world_4region, world_6region, poverty_percent, population_total, poverty_total",0,,2023-07-05 20:26:22.883179
+32,NameError,name 'find_geo' is not defined,0,,2023-07-05 20:46:28.392040
+33,IndexError,index 0 is out of bounds for axis 0 with size 0,0,,2023-07-05 20:46:36.051652
+34,ValueError,"The column ""population_total"" is not in the table. The table contains these columns: geo, time, extreme_poverty_percent_people_below_125_a_day",0,,2023-07-05 20:58:16.832938
+35,ValueError,"The column ""population_total"" is not in the table. The table contains these columns: geo, time, extreme_poverty_percent_people_below_125_a_day",0,,2023-07-05 20:58:38.490527
+36,AttributeError,type object 'property' has no attribute 'join',0,,2023-07-05 20:59:28.689794
+37,AttributeError,'str' object has no attribute 'column',0,,2023-07-05 21:02:12.373156
+38,ValueError,"The column ""poverty_total"" is not in the table. The table contains these columns: geo, time, extreme_poverty_percent_people_below_125_a_day, population_total",0,,2023-07-05 21:03:21.259121
+39,ValueError,"The column ""poverty_total"" is not in the table. The table contains these columns: geo, time, extreme_poverty_percent_people_below_125_a_day, population_total",0,,2023-07-05 21:05:31.074115
+40,ValueError,"The column ""poverty_total"" is not in the table. The table contains these columns: geo, time, extreme_poverty_percent_people_below_125_a_day, population_total",0,,2023-07-05 21:06:04.620587
